@@ -1,0 +1,22 @@
+{
+  "name": "pitchperfect",
+  "version": "1.0.0",
+  "description": "A JS application to guess pitches",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taddes/pitchPerfect.git"
+  },
+  "author": "Taddes Korris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taddes/pitchPerfect/issues"
+  },
+  "homepage": "https://github.com/taddes/pitchPerfect#readme",
+  "dependencies": {
+    "temperament": "^1.0.0"
+  }
+}
